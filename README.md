@@ -19,7 +19,7 @@
   
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://humorgeeky.com/wp-content/uploads/2013/06/programando.gif">
 </div>
   
 ##
