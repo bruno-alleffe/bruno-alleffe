@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Bruno Alleffe!
 
 <!-- - 🔭 Atualmente focado em programação -->
-- 🌱 Estudado React e Node.js
+- 🌱 Estudado .Net e C#
 - 📫 Contate-me no email: bruno16alleffe@gmail.com
 <!-- - 😄 Pronouns: ele/dele -->
 
